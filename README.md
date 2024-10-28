@@ -16,7 +16,7 @@ Análise de dados de telemakerting apenas para fins de estudos.
 
 ## Autor
 
-[@GabrielAbiye](www.linkedin.com/in/gabriel-abiyê-sampaio)
+[@GabrielAbiye]([www.linkedin.com/in/gabriel-abiyê-sampaio](https://www.linkedin.com/in/gabriel-abiy%C3%AA-sampaio/))
 
 ## Histórico de versões.
 
