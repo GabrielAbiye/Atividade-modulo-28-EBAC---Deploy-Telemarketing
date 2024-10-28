@@ -14,12 +14,9 @@ Análise de dados de telemakerting apenas para fins de estudos.
 
 * Carregar o arquivo
 
-## Autore
+## Autor
 
-Gabriel Abiyê.
-
-ex. Lucas Serra  
-ex. [@GabrielAbiye](www.linkedin.com/in/gabriel-abiyê-sampaio)
+[@GabrielAbiye](www.linkedin.com/in/gabriel-abiyê-sampaio)
 
 ## Histórico de versões.
 
